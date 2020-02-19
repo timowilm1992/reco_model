@@ -1,0 +1,1 @@
+{"label": {"type": "float64", "shape": [10]}, "lbl_key": {"type": "int64", "shape": [1]}, "context": {"type": "float64", "shape": [10]}}
