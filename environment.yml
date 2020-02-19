@@ -1,0 +1,7 @@
+name: reco-model
+channels:
+  - conda-forge
+dependencies:
+  - python==3.6.8
+  - pytest==5.2.0
+  - tensorflow==1.14.0
